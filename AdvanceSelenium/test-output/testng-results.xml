@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30715" started-at="2022-05-04T10:05:18Z" finished-at="2022-05-04T10:05:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30715" started-at="2022-05-04T10:05:18Z" finished-at="2022-05-04T10:05:48Z">
+      <class name="qsp.Demo">
+        <test-method status="PASS" signature="openAmazon()[pri:0, instance:qsp.Demo@26653222]" name="openAmazon" is-config="true" duration-ms="23277" started-at="2022-05-04T10:05:18Z" finished-at="2022-05-04T10:05:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAmazon -->
+        <test-method status="PASS" signature="test()[pri:0, instance:qsp.Demo@26653222]" name="test" duration-ms="333" started-at="2022-05-04T10:05:41Z" finished-at="2022-05-04T10:05:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="closeAmazon()[pri:0, instance:qsp.Demo@26653222]" name="closeAmazon" is-config="true" duration-ms="7063" started-at="2022-05-04T10:05:41Z" finished-at="2022-05-04T10:05:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAmazon -->
+      </class> <!-- qsp.Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
